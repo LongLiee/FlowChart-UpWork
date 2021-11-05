@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:02:17.286Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ppXTCsnCqyVRJ77Q7hb-" version="15.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T10:55:22.654Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QmQZj33meurcyhJ0oR_-" version="15.6.5" type="github" pages="3">
   <diagram id="n6jucltwdPo0mYIWtgHF" name="Page-1">
     <mxGraphModel dx="3197" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,17 +199,17 @@
         <mxCell id="4J2bK4tXkOxO9ikkrRz5-18" value="Người dùng " style="swimlane;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;startSize=23;" vertex="1" parent="MjI6QJ7Dj4OFO_YG5jce-1">
           <mxGeometry x="430" y="160" width="270" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="4J2bK4tXkOxO9ikkrRz5-23" value="Chọn filter" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-18">
-          <mxGeometry x="70" y="90" width="110" height="50" as="geometry" />
+        <mxCell id="4J2bK4tXkOxO9ikkrRz5-23" value="Nhập tên thiết bị&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-18">
+          <mxGeometry x="50" y="90" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4J2bK4tXkOxO9ikkrRz5-26" value="Chọn các field&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-18">
+        <mxCell id="4J2bK4tXkOxO9ikkrRz5-26" value="Chọn 1 thiết bị và thời gian&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-18">
           <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4J2bK4tXkOxO9ikkrRz5-21" value="Giao diện export " style="swimlane;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="MjI6QJ7Dj4OFO_YG5jce-1">
+        <mxCell id="4J2bK4tXkOxO9ikkrRz5-21" value="Giao diện search  " style="swimlane;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="MjI6QJ7Dj4OFO_YG5jce-1">
           <mxGeometry x="700" y="160" width="260" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="4J2bK4tXkOxO9ikkrRz5-24" value="Form filter&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-21">
-          <mxGeometry x="50" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="4J2bK4tXkOxO9ikkrRz5-24" value="Danh sách các thiết bị, thời gian&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-21">
+          <mxGeometry x="50" y="140" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4J2bK4tXkOxO9ikkrRz5-30" value="Hiển thị thông tin&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="4J2bK4tXkOxO9ikkrRz5-21">
           <mxGeometry x="60" y="425" width="150" height="75" as="geometry" />
@@ -254,7 +254,7 @@
       <root>
         <mxCell id="PVSzn_vxZGGaknQfKKLP-0" />
         <mxCell id="PVSzn_vxZGGaknQfKKLP-1" parent="PVSzn_vxZGGaknQfKKLP-0" />
-        <mxCell id="PVSzn_vxZGGaknQfKKLP-2" value="Export&amp;nbsp;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;labelPosition=center;align=center;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
+        <mxCell id="PVSzn_vxZGGaknQfKKLP-2" value="Search&amp;nbsp;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;labelPosition=center;align=center;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
           <mxGeometry x="150" y="110" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVSzn_vxZGGaknQfKKLP-3" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
@@ -275,8 +275,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVSzn_vxZGGaknQfKKLP-10" value="1.Click button filter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
-          <mxGeometry x="320" y="355" width="160" height="30" as="geometry" />
+        <mxCell id="PVSzn_vxZGGaknQfKKLP-10" value="1.Nhập input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
+          <mxGeometry x="345" y="355" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVSzn_vxZGGaknQfKKLP-11" value=":Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
           <mxGeometry x="700" y="230" width="167.5" height="510" as="geometry" />
@@ -323,7 +323,7 @@
         <mxCell id="PVSzn_vxZGGaknQfKKLP-22" value="4.Trả dữ liệu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
           <mxGeometry x="855" y="495" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PVSzn_vxZGGaknQfKKLP-7" value="GD:Export&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
+        <mxCell id="PVSzn_vxZGGaknQfKKLP-7" value="GD:Search&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=2;fillColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-1">
           <mxGeometry x="370" y="230" width="290" height="510" as="geometry" />
         </mxCell>
         <mxCell id="PVSzn_vxZGGaknQfKKLP-26" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-7">
@@ -367,13 +367,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q7D9pMknyH-UXdRaNIg7-4" value="[ Thành công ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-7">
-          <mxGeometry x="-39" y="300" width="126" height="30" as="geometry" />
+          <mxGeometry x="-50" y="360" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q7D9pMknyH-UXdRaNIg7-5" value="[ Thất bại ]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-7">
           <mxGeometry x="-50" y="420" width="126" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KzGuwa5bc8-9UffOM2Uw-1" value="7. Click button export&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;" vertex="1" parent="PVSzn_vxZGGaknQfKKLP-7">
-          <mxGeometry x="-50" y="355" width="137" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
